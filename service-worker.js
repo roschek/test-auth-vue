@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3d9f81ef1029221bbd132527cd104301.js"
+  "/test-auth-vue/precache-manifest.ee645a28a10b1e0d9e398fcf5b59163a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "test-auth"});
